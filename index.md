@@ -14,7 +14,7 @@ Expected Graduation: December 2023
 
 [LinkedIn](https://www.linkedin.com/in/samuel-ewert/)
 
-[Resume](https://github.com/samewert/ProgrammingProjects/files/11313454/Ewert.Samuel.-.Resume.pdf)
+[Download Resume](https://github.com/samewert/ProgrammingProjects/files/11313454/Ewert.Samuel.-.Resume.pdf)
 
 
 # My Programming Projects
