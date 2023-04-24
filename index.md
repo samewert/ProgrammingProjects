@@ -12,6 +12,11 @@ Master's of Science in Computer Science
 
 Expected Graduation: December 2023
 
+[LinkedIn](https://www.linkedin.com/in/samuel-ewert/)
+
+[Resume](https://github.com/samewert/ProgrammingProjects/files/11313454/Ewert.Samuel.-.Resume.pdf)
+
+
 # My Programming Projects
 
 This is the collection of all my programming projects since 2018 when I was in high school.
