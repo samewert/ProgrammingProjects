@@ -1,6 +1,16 @@
 ---
-title: Welcome to Sam Ewert's Programming Projects
+title: Samuel D. Ewert
 ---
+
+Insert picture and small description
+
+![Samuel D. Ewert](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+University of Wisconsin-Whitewater
+
+Master's of Science in Computer Science
+
+Expected Graduation: December 2023
 
 This is the culmination of all the programming assignments I have created since 2018 when I was in high school.
 
