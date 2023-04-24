@@ -19,7 +19,7 @@ Expected Graduation: December 2023
 
 # My Programming Projects
 
-This is the collection of all my programming projects since 2018 when I was in high school.
+This is the collection of all my programming projects since I was in high school (2018-Present).
 
 ## 2023 
 
