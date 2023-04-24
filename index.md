@@ -28,7 +28,9 @@ This is the collection of all my programming projects since I was in high school
 ## 2021
 
 ## 2020
+### Intermediate Java https://github.com/samewert/Intermediate-Java
 
+Topics included: Class, Objects, Constructors, Overloading, Multi-Dimensional Arrays, Sorting, File Handling, Object Arrays, Enhanced for-Loop, String, Exception Handling, Recursion, Binary Search, Comparators, Enums, Generics, Inheritance, Polymorphism, Abstract Class, Interface, Functional Programming
 ## 2019 
 
 ## 2018
