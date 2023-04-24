@@ -26,6 +26,9 @@ This is the collection of all my programming projects since I was in high school
 ## 2022
 
 ## 2021
+### Data Structures https://github.com/samewert/Data-Structures
+
+Topics included: Selection Sort, Insertion Sort, Stack, Queue, Linked List, Dynamic Array, Binary Search, Hashing, Binary Search, Recursion, Breadth-First Search, Depth-First Search, Directed Acyclic Graphs, Trie, Generic Dynamic Heap, Priority Queue, Dijkstra's Algorithm, Sets, Maps
 
 ## 2020
 ### Intermediate Java https://github.com/samewert/Intermediate-Java
