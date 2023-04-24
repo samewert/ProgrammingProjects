@@ -2,9 +2,9 @@
 title: Samuel D. Ewert
 ---
 
-Insert picture and small description
+<!-- ![Samuel D. Ewert](https://user-images.githubusercontent.com/98443635/234078544-b2c82cdc-3618-4ab2-b3eb-8bc6239d47fc.jpg) -->
 
-![Samuel D. Ewert](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+<img src="https://user-images.githubusercontent.com/98443635/234078544-b2c82cdc-3618-4ab2-b3eb-8bc6239d47fc.jpg" width = "600" height = "400">
 
 University of Wisconsin-Whitewater
 
@@ -12,13 +12,29 @@ Master's of Science in Computer Science
 
 Expected Graduation: December 2023
 
-This is the culmination of all the programming assignments I have created since 2018 when I was in high school.
+# My Programming Projects
 
-# Welcome
+This is the collection of all my programming projects since 2018 when I was in high school.
 
-## To 
+## 2023 
 
-### My
+## 2022
+
+## 2021
+
+## 2020
+
+## 2019 
+
+## 2018
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### Website
 
