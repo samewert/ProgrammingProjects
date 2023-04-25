@@ -29,7 +29,7 @@ Coming Soon...
 ### Cloud Computing
 Homemade Cloud Storage using Google Cloud Platform. HTML (front end) and Python Flask with REST API (back end).
 
-<iframe src="https://drive.google.com/file/d/1xzjH4ZTkKsSO2nhBn1cpgDKdT_1lYE26/preview" width="700" height="500" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1xzjH4ZTkKsSO2nhBn1cpgDKdT_1lYE26/preview" width="700" height="400" allow="autoplay"></iframe>
 
 ### Intro to AI [https://github.com/samewert/Intro-to-AI](https://github.com/samewert/Intro-to-AI)
 
@@ -48,7 +48,7 @@ Topics included: Selection Sort, Insertion Sort, Stack, Queue, Linked List, Dyna
 ### Computer Organization and System Programming
 Homemade Bop It using an Arduino kit in C language. Features include joystick directions and 3 buttons with accompanying sound effects, LCD screen, and timer.
 
-<iframe width="700" height="500" src="https://www.youtube.com/embed/kpCeHh9PAkk" title="Arduino “Bop It” - CompSci 412" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/kpCeHh9PAkk" title="Arduino “Bop It” - CompSci 412" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2020
 ### Intermediate Java [https://github.com/samewert/Intermediate-Java](https://github.com/samewert/Intermediate-Java)
