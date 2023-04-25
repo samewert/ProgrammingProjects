@@ -31,7 +31,7 @@ Homemade Cloud Storage using Google Cloud Platform. HTML (front end) and Python 
 
 <iframe src="https://drive.google.com/file/d/1xzjH4ZTkKsSO2nhBn1cpgDKdT_1lYE26/preview" width="700" height="400" allow="autoplay"></iframe>
 
-### Intro to AI [https://github.com/samewert/Intro-to-AI](https://github.com/samewert/Intro-to-AI)
+### Intro to AI <https://github.com/samewert/Intro-to-AI>
 
  Topics included: BFS, DFS, Genetic Algorithms, Minimax Algorithms, Decision Trees, Heuristics, First Order (Predicate) Logic, Bayesian Networks, Decision Trees, K-Nearest Neighbors
 
@@ -51,7 +51,7 @@ Homemade Bop It using an Arduino kit in C language. Features include joystick di
 <iframe width="700" height="400" src="https://www.youtube.com/embed/kpCeHh9PAkk" title="Arduino “Bop It” - CompSci 412" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2020
-### Intermediate Java [https://github.com/samewert/Intermediate-Java](https://github.com/samewert/Intermediate-Java)
+### Intermediate Java <https://github.com/samewert/Intermediate-Java>
 
 Topics included: Class, Objects, Constructors, Overloading, Multi-Dimensional Arrays, Sorting, File Handling, Object Arrays, Enhanced for-Loop, String, Exception Handling, Recursion, Binary Search, Comparators, Enums, Generics, Inheritance, Polymorphism, Abstract Class, Interface, Functional Programming
 ## 2019
@@ -130,9 +130,10 @@ Type code 'int x = 3'
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 <https://www.markdownguide.org>
+
 <fake@example.com>
 
-[link](https://www.example.com/my%20great%20page)
+[link without href](https://www.example.com/my%20great%20page)
 
 <a href="https://www.example.com/my great page">link</a>
 
@@ -142,4 +143,4 @@ Image:
 
 [![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
 
-\* without the backslash, thsi would be a bullet in an unordered list.
+\* without the backslash, this would be a bullet in an unordered list.
