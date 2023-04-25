@@ -23,6 +23,8 @@ This is the collection of all my programming projects since I was in high school
 
 ## 2023 
 
+Coming Soon...
+
 ## 2022
 ### Cloud Computing
 Homemade Cloud Storage using Google Cloud Platform. HTML (front end) and Python Flask with REST API (back end).
@@ -54,10 +56,13 @@ Homemade Bop It using an Arduino kit in C language. Features include joystick di
 ### Intermediate Java [https://github.com/samewert/Intermediate-Java](https://github.com/samewert/Intermediate-Java)
 
 Topics included: Class, Objects, Constructors, Overloading, Multi-Dimensional Arrays, Sorting, File Handling, Object Arrays, Enhanced for-Loop, String, Exception Handling, Recursion, Binary Search, Comparators, Enums, Generics, Inheritance, Polymorphism, Abstract Class, Interface, Functional Programming
-## 2019 
+## 2019
+Coming Soon...
+
 
 ## 2018
 
+Coming Soon...
 
 
 <br>
