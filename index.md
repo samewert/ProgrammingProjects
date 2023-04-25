@@ -25,7 +25,8 @@ This is the collection of all my programming projects since I was in high school
 
 ## 2022
 ### Cloud Computing
-Homemade Cloud Storage using Google Cloud Platform. HTML (front end) and Python Flask and REST API (back end).
+Homemade Cloud Storage using Google Cloud Platform. HTML (front end) and Python Flask with REST API (back end).
+
 ![Tux, the Linux mascot](ProgrammingProjects/milwaukee sunset.jpg)
 
 
