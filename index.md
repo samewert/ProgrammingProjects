@@ -24,6 +24,10 @@ This is the collection of all my programming projects since I was in high school
 ## 2023 
 
 ## 2022
+### Intro to AI https://github.com/samewert/Intro-to-AI
+
+ Topics included: BFS, DFS, Genetic Algorithms, Minimax Algorithms, Decision Trees, Heuristics, First Order (Predicate) Logic, Bayesian Networks, Decision Trees, K-Nearest Neighbors
+
 
 ## 2021
 ### Data Structures https://github.com/samewert/Data-Structures
