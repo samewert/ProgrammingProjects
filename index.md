@@ -25,7 +25,7 @@ This is the collection of all my programming projects since I was in high school
 
 ## 2022
 ### Cloud Computing
-![Tux, the Linux mascot](Final Project - Demo Video.mp4)
+![Tux, the Linux mascot](/Final Project - Demo Video.mp4)
 
 
 ### Intro to AI [https://github.com/samewert/Intro-to-AI](https://github.com/samewert/Intro-to-AI)
