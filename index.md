@@ -27,7 +27,7 @@ This is the collection of all my programming projects since I was in high school
 ### Cloud Computing
 Homemade Cloud Storage using Google Cloud Platform. HTML (front end) and Python Flask with REST API (back end).
 
-![Tux, the Linux mascot](ProgrammingProjects/milwaukee sunset.jpg)
+![Tux, the Linux mascot](/ProgrammingProjects/milwaukee sunset.jpg)
 
 
 ### Intro to AI [https://github.com/samewert/Intro-to-AI](https://github.com/samewert/Intro-to-AI)
