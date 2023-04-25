@@ -29,6 +29,8 @@ Coming Soon...
 ### Cloud Computing
 Homemade Cloud Storage using Google Cloud Platform. HTML (front end) and Python Flask with REST API (back end).
 
+<iframe src="https://drive.google.com/file/d/1xzjH4ZTkKsSO2nhBn1cpgDKdT_1lYE26/preview" width="700" height="500" allow="autoplay"></iframe>
+
 ![Cloud Computing Video](/Final Project - Demo Video.mp4)
 
 ![Tux, the Linux mascot](/milwaukee sunset.jpg)
