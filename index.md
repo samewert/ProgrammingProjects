@@ -32,7 +32,7 @@ This is the collection of all my programming projects since I was in high school
 ## 2021
 ### Datambase Management Systems
 
-<iframe src="https://drive.google.com/file/d/1XWOjaziDqT0LTG1RdlOobOuhYmOSDreO/preview" width="840" height="400" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1XWOjaziDqT0LTG1RdlOobOuhYmOSDreO/preview" width="700" height="350" allow="autoplay"></iframe>
 
 ### Data Structures [https://github.com/samewert/Data-Structures](https://github.com/samewert/Data-Structures)
 
