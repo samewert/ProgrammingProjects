@@ -31,10 +31,6 @@ Homemade Cloud Storage using Google Cloud Platform. HTML (front end) and Python 
 
 <iframe src="https://drive.google.com/file/d/1xzjH4ZTkKsSO2nhBn1cpgDKdT_1lYE26/preview" width="700" height="500" allow="autoplay"></iframe>
 
-![Cloud Computing Video](/Final Project - Demo Video.mp4)
-
-![Tux, the Linux mascot](/milwaukee sunset.jpg)
-
 ### Intro to AI [https://github.com/samewert/Intro-to-AI](https://github.com/samewert/Intro-to-AI)
 
  Topics included: BFS, DFS, Genetic Algorithms, Minimax Algorithms, Decision Trees, Heuristics, First Order (Predicate) Logic, Bayesian Networks, Decision Trees, K-Nearest Neighbors
