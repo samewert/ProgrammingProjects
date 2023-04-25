@@ -93,9 +93,6 @@ Fuuuuuun
   print(x)
 
 ***Bold and italics***
-
-<iframe src="https://drive.google.com/file/d/1XWOjaziDqT0LTG1RdlOobOuhYmOSDreO/preview" width="640" height="480" allow="autoplay"></iframe>
-
 ___________________________
 
 https://www.markdownguide.org/basic-syntax/
