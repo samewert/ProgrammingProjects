@@ -38,6 +38,10 @@ This is the collection of all my programming projects since I was in high school
 
 Topics included: Selection Sort, Insertion Sort, Stack, Queue, Linked List, Dynamic Array, Binary Search, Hashing, Binary Search, Recursion, Breadth-First Search, Depth-First Search, Directed Acyclic Graphs, Trie, Generic Dynamic Heap, Priority Queue, Dijkstra's Algorithm, Sets, Maps
 
+### Computer Organization and System Programming
+
+<iframe width="885" height="498" src="https://www.youtube.com/embed/kpCeHh9PAkk" title="Arduino “Bop It” - CompSci 412" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 2020
 ### Intermediate Java [https://github.com/samewert/Intermediate-Java](https://github.com/samewert/Intermediate-Java)
 
