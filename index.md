@@ -24,18 +24,18 @@ This is the collection of all my programming projects since I was in high school
 ## 2023 
 
 ## 2022
-### Intro to AI https://github.com/samewert/Intro-to-AI
+### Intro to AI [Link to GitHub](https://github.com/samewert/Intro-to-AI)
 
  Topics included: BFS, DFS, Genetic Algorithms, Minimax Algorithms, Decision Trees, Heuristics, First Order (Predicate) Logic, Bayesian Networks, Decision Trees, K-Nearest Neighbors
 
 
 ## 2021
-### Data Structures https://github.com/samewert/Data-Structures
+### Data Structures [Link to GitHub](https://github.com/samewert/Data-Structures)
 
 Topics included: Selection Sort, Insertion Sort, Stack, Queue, Linked List, Dynamic Array, Binary Search, Hashing, Binary Search, Recursion, Breadth-First Search, Depth-First Search, Directed Acyclic Graphs, Trie, Generic Dynamic Heap, Priority Queue, Dijkstra's Algorithm, Sets, Maps
 
 ## 2020
-### Intermediate Java https://github.com/samewert/Intermediate-Java
+### Intermediate Java [Link to GitHub](https://github.com/samewert/Intermediate-Java)
 
 Topics included: Class, Objects, Constructors, Overloading, Multi-Dimensional Arrays, Sorting, File Handling, Object Arrays, Enhanced for-Loop, String, Exception Handling, Recursion, Binary Search, Comparators, Enums, Generics, Inheritance, Polymorphism, Abstract Class, Interface, Functional Programming
 ## 2019 
