@@ -40,7 +40,7 @@ Topics included: Selection Sort, Insertion Sort, Stack, Queue, Linked List, Dyna
 
 ### Computer Organization and System Programming
 
-<iframe width="885" height="498" src="https://www.youtube.com/embed/kpCeHh9PAkk" title="Arduino “Bop It” - CompSci 412" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/kpCeHh9PAkk" title="Arduino “Bop It” - CompSci 412" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 2020
 ### Intermediate Java [https://github.com/samewert/Intermediate-Java](https://github.com/samewert/Intermediate-Java)
