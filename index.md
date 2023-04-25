@@ -30,7 +30,7 @@ This is the collection of all my programming projects since I was in high school
 
 
 ## 2021
-### Datambase Management Systems
+### Database Management Systems
 
 <iframe src="https://drive.google.com/file/d/1XWOjaziDqT0LTG1RdlOobOuhYmOSDreO/preview" width="700" height="350" allow="autoplay"></iframe>
 
