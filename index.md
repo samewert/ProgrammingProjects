@@ -24,6 +24,10 @@ This is the collection of all my programming projects since I was in high school
 ## 2023 
 
 ## 2022
+### Cloud Computing
+![Tux, the Linux mascot](Final Project - Demo Video.mp4)
+
+
 ### Intro to AI [https://github.com/samewert/Intro-to-AI](https://github.com/samewert/Intro-to-AI)
 <!-- [Link to GitHub](https://github.com/samewert/Intro-to-AI) -->
  Topics included: BFS, DFS, Genetic Algorithms, Minimax Algorithms, Decision Trees, Heuristics, First Order (Predicate) Logic, Bayesian Networks, Decision Trees, K-Nearest Neighbors
