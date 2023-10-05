@@ -23,7 +23,9 @@ This is the collection of all my programming projects since I was in high school
 
 ## 2023 
 
-Coming Soon...
+Full Stack Mobile Development for JOY HELPS. [joyhelps.me](https://joyhelps.me)
+
+More Coming Soon...
 
 ## 2022
 ### Cloud Computing
